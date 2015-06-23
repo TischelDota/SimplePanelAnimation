@@ -20,9 +20,6 @@ var DEFAULT_EASE = "linear";
  */
 function AnimatePanel(panel, values, duration, ease, delay)
 {
-	// gotta set duration first for some reason
-	panel.style.transition = "transform 20s ease 0s;";
-
 	// generate transition string
 	var durationString = (duration != null ? duration * 1000 + ".0ms" : DEFAULT_DURATION);
 	var easeString = (ease != null ? ease : DEFAULT_EASE);
