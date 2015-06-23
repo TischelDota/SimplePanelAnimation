@@ -1,5 +1,4 @@
 # Simple Panel Animation
-========================
 Simple animations for panels in Panorama UI (Dota 2)
 
 Examples:
