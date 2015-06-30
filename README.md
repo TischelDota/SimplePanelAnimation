@@ -12,7 +12,7 @@ AnimatePanel(panel, { "transform": "scaleX(0.5) scaleY(0.5);", "opacity": "0.3;"
 ````
 
 Here's an example from my game of what kind of animations are possible with this simple function:
-http://puu.sh/iFhL2/3c69945959.mp4
+http://puu.sh/iGFZi/24bde1d132.mp4
 
 
 Made by tischeldota@gmail.com
